@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on videogamesales</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on videogamesales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Platform</title>
+      <link>/tags/platform/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top 100 Video Games</title>
+      <link>/tags/top-100-video-games/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/top-100-video-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher</title>
+      <link>/tags/publisher/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/publisher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genre</title>
+      <link>/tags/genre/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Year</title>
+      <link>/tags/year/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/year/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional Sales</title>
+      <link>/tags/regional-sales/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regional-sales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

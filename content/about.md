@@ -1,0 +1,1 @@
+This is worldwide summary of game sales information.

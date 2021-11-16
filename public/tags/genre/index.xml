@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genre on videogamesales</title>
+    <link>/tags/genre/</link>
+    <description>Recent content in Genre on videogamesales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/genre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genre Distribution of Top 100 Video Games</title>
+      <link>/2021/11/09/genre-distribution-of-top-100-video-games/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/11/09/genre-distribution-of-top-100-video-games/</guid>
+      <description>Genre Distribution of Top 100 Video GamesThe plots below show the number of Top 100 selling video games according to genre, and their respective shares of Top 100 total sales. You can hover your mouse over them to see more details.
+{&#34;x&#34;:{&#34;data&#34;:[{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[1],&#34;y&#34;:[22],&#34;text&#34;:&#34;Genre: Shooter
+Number: 22&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;textposition&#34;:&#34;none&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(141,211,199,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Shooter&#34;,&#34;legendgroup&#34;:&#34;Shooter&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[2],&#34;y&#34;:[16],&#34;text&#34;:&#34;Genre: Platform
+Number: 16&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;textposition&#34;:&#34;none&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(255,255,179,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Platform&#34;,&#34;legendgroup&#34;:&#34;Platform&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[3],&#34;y&#34;:[15],&#34;text&#34;:&#34;Genre: Role-Playing
+Number: 15&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;textposition&#34;:&#34;none&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(190,186,218,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Role-Playing&#34;,&#34;legendgroup&#34;:&#34;Role-Playing&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[4],&#34;y&#34;:[12],&#34;text&#34;:&#34;Genre: Action
+Number: 12&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;textposition&#34;:&#34;none&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(128,177,211,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Action&#34;,&#34;legendgroup&#34;:&#34;Action&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[5],&#34;y&#34;:[10],&#34;text&#34;:&#34;Genre: Racing
+Number: 10&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;textposition&#34;:&#34;none&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(253,180,98,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Racing&#34;,&#34;legendgroup&#34;:&#34;Racing&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[6],&#34;y&#34;:[9],&#34;text&#34;:&#34;Genre: Misc
+Number: 9&#34;,&#34;type&#34;:&#34;bar&#34;,&#34;textposition&#34;:&#34;none&#34;,&#34;marker&#34;:{&#34;autocolorscale&#34;:false,&#34;color&#34;:&#34;rgba(179,222,105,1)&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;transparent&#34;}},&#34;name&#34;:&#34;Misc&#34;,&#34;legendgroup&#34;:&#34;Misc&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;orientation&#34;:&#34;v&#34;,&#34;width&#34;:0.9,&#34;base&#34;:0,&#34;x&#34;:[7],&#34;y&#34;:[6],&#34;text&#34;:&#34;Genre: Sports</description>
+    </item>
+    
+  </channel>
+</rss>

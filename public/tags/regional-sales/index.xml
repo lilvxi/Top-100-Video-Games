@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regional Sales on videogamesales</title>
+    <link>/tags/regional-sales/</link>
+    <description>Recent content in Regional Sales on videogamesales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/regional-sales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regional Sales of Top 100 Video Games (in millions)</title>
+      <link>/2021/11/06/regional-sales-of-top-100-video-games-in-millions/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/11/06/regional-sales-of-top-100-video-games-in-millions/</guid>
+      <description>Regional Sales of Top 100 Video Games (in millions)The plot below shows North America, Europe, Japan and Other Sales of Top 100 Video Games in millions. This is an interactive graph, and with the tabs in the upper right corner, you are free to choose whether to see only Top 100 selling video games in a particular region or the difference in sales of video games with the same ranking in four regions at the same time.</description>
+    </item>
+    
+  </channel>
+</rss>
